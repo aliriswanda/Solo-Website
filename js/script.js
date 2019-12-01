@@ -51,3 +51,13 @@ $(function () {
     });
 
 });
+
+
+/* Responsive Tabs */
+$(function () {
+
+    $("#services-tabs").responsiveTabs({
+        animation: 'slide'
+    });
+
+});
