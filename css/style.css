@@ -1166,6 +1166,11 @@ ul.office-details li i {
     min-height: 164px;
 }
 
+/* Google Maps */
+
+#map {
+    height: 600px;
+}
 
 
 
